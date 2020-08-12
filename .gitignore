@@ -1,4 +1,5 @@
 logdir-1
 logdir-2
 dc_tts/ru
-
+tacotron/ru
+dc_tts/__pycache__/
