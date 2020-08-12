@@ -8,7 +8,7 @@ class Hyperparams:
     '''Hyper parameters'''
     
     # pipeline
-    lang = 'fr'
+    lang = 'ru'
 
     prepro = True  # if True, run `python prepro.py` first before running `python train.py`.
     
