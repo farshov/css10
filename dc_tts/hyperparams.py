@@ -6,7 +6,7 @@ https://www.github.com/kyubyong/css10
 '''
 class Hyperparams:
     '''Hyper parameters'''
-    lang = "hu"
+    lang = "ru"
 
     # pipeline
     prepro = True  # if True, run `python prepro.py` first before running `python train.py`.
